@@ -29,3 +29,15 @@
 
 [heap size]: https://stackoverflow.com/questions/15313393/how-to-increase-application-heap-size-in-eclipse
 [JGraphT API]: http://jgrapht.org/javadoc/deprecated-list.html
+
+## Citation
+If you find this work or code is helpful in your research, please cite our work:
+```
+@INPROCEEDINGS{8422236,
+  author={Wang, Chih-Hang and Kuo, Jian-Jhih and Yang, De-Nian and Chen, Wen-Tsuen},
+  booktitle={2018 IEEE International Conference on Communications (ICC)}, 
+  title={Green Software-Defined Internet of Things for Big Data Processing in Mobile Edge Networks}, 
+  year={2018},
+  pages={1-7},
+  doi={10.1109/ICC.2018.8422236}}
+```
